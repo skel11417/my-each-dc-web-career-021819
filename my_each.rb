@@ -4,5 +4,5 @@ def my_each(array)
     yield array[0]
     i += 1 
   end
-  # array
+  array
 end
